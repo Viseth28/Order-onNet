@@ -1,0 +1,5 @@
+{
+  "name": "SwiftServe - Waiter Companion",
+  "description": "A streamlined restaurant ordering system for waiters to manage orders, update menus, and send tickets directly to the kitchen via Telegram.",
+  "requestFramePermissions": []
+}

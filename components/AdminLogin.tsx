@@ -80,9 +80,6 @@ export const AdminLogin: React.FC<AdminLoginProps> = ({ onLogin, onBack }) => {
             </button>
           </form>
         </div>
-        <div className="bg-gray-50 px-8 py-4 border-t border-gray-100 text-center">
-            <p className="text-xs text-gray-400">Default: admin / 1234</p>
-        </div>
       </div>
     </div>
   );
